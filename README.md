@@ -18,7 +18,7 @@ I'm a bioinformatics master's graduate passionate about:
 
 ## Get in Touch
 
-- 🌐 Personal Website: [bioguy.xyz](https://bioguy.xyz)
+- 🌐 [bioguy.xyz](https://bioguy.xyz)
 - [LinkedIn](https://www.linkedin.com/in/bibymaths)  
 - [GitHub](https://github.com/bibymaths)  
 - [Email](mailto:abhinav.mishra@fu-berlin.de)
