@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Abhinav! 👋
 
-<!--
-**bibymaths/bibymaths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bioinformatics master student passionate about:
+- cancer research, modellig, optimization
+- 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: PKPD model for Tirzepatide.
+- 🌱 I’m currently learning: julia 
+
+## Skills & Technologies
+
+- **Languages**: julia, python, R, bash, perl
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/bibymaths)  
+- [Twitter](https://twitter.com/shadytoyou)  
+- [Email](mailto:abhinav.mishra@fu-berlin.de)
+
+<!-- 
+Optionally, you can add:
+1. GitHub Stats (using a third-party service like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))
+2. Visitor Badge (from [shields.io](https://shields.io/))
+3. A list of your pinned repositories
 -->
