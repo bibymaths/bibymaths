@@ -1,8 +1,7 @@
 # Hi there, I'm Abhinav! 👋
 
 I'm a bioinformatics master student passionate about:
-- cancer research, modellig, optimization
-- 
+- cancer research, modellig, optimization 
 
 ## About Me
 
