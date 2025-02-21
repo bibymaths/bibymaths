@@ -30,8 +30,3 @@ I’m a bioinformatics wizard 🧙‍♂️ who loves to mix science, code, and 
 ## Publications
 
 - [Gene expression studies in AR, MTOR, MAPK pathways and their role in prostate cancer](https://doi.org/10.1515/jib-2018-0080)
-
----
-
-💡 Feel free to check out my repositories and collaborate on exciting projects in bioinformatics and computational biology! 
-🎉 Let’s collaborate, innovate, and turn science fiction into science reality! Feel free to poke around my repos or say hi—I don’t byte (pun intended)!
