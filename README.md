@@ -14,12 +14,6 @@ I’m a bioinformatics wizard 🧙‍♂️ who loves to mix science, code, and 
 - 🌌 A proud believer that data is the closest thing we have to the Force in real life. May the p-value be ever in your favor!
 - 🧩 My favorite pastime? Making sense of messy datasets. It’s like solving a Rubik’s cube, but nerdier.
 
-## My Superpowers 🦸‍♂️
-
-- 🧪 **Bioinformatics Sorcery**: High-throughput data analysis, omics, machine learning, and more buzzwords than you can count!
-- 💻 **Languages Spoken**: Julia, Python, R, Bash, Perl (also fluent in sarcasm).
-- 🎯 **Tools in My Arsenal**: GATK, Samtools, BAMtools, LaTeX, and a bottomless pit of curiosity.
-
 ## Skills & Technologies
 
 - **Languages**: Julia, Python, R, Bash, Perl
