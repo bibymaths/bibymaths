@@ -17,7 +17,6 @@ I’m a bioinformatics wizard 🧙‍♂️ who loves to mix science, code, and 
 ## Skills & Technologies
 
 - **Languages**: Julia, Python, R, Bash, Perl
-- **Tools**: Samtools, BAMtools, GATK, Conda, LaTeX
 - **Specializations**: High-throughput data analysis, omics analysis, comparative genomics, machine learning, applied statistics, drug discovery, and data visualization.
 
 ## Get in Touch
@@ -25,8 +24,9 @@ I’m a bioinformatics wizard 🧙‍♂️ who loves to mix science, code, and 
 - 🌐 [bioguy.xyz](https://bioguy.xyz)
 - [LinkedIn](https://www.linkedin.com/in/bibymaths)  
 - [GitHub](https://github.com/bibymaths)  
-- [Email](mailto:abhinav.mishra@fu-berlin.de)
+- [Email](mailto:mishraabhinav36@gmail.com)
 
 ## Publications
 
+- [Physiologically based pharmacokinetic (PBPK) model of tirzepatide](https://doi.org/10.5281/zenodo.14984688) 
 - [Gene expression studies in AR, MTOR, MAPK pathways and their role in prostate cancer](https://doi.org/10.1515/jib-2018-0080)
