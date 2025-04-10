@@ -21,9 +21,7 @@ I’m a bioinformatics wizard 🧙‍♂️ who loves to mix science, code, and 
 
 ## Get in Touch
 
-- 🌐 [bioguy.xyz](https://bioguy.xyz)
 - [LinkedIn](https://www.linkedin.com/in/bibymaths)  
-- [GitHub](https://github.com/bibymaths)  
 - [Email](mailto:mishraabhinav36@gmail.com)
 
 ## Publications
