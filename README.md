@@ -35,5 +35,4 @@ I hold a Master’s degree in Bioinformatics from Freie Universität Berlin, wit
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-3A7DAB?logo=quarto&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-494CE0?logo=mkdocs&logoColor=white)
-![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?logo=readthedocs&logoColor=white)
-
+![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?logo=readthedocs&logoColor=white) 
