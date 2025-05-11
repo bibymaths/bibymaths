@@ -1,30 +1,39 @@
-# Hi there, I'm Abhinav!
+# Hi there, I'm Abhinav
 
-I’m a bioinformatics wizard who loves to mix science, code, and a sprinkle of chaos to tackle big questions in biology. From cancer research to dopamine pathways, my journey has been as dynamic as the proteins I model!
+I’m a bioinformatics enthusiast who loves to mix science, code, and a bit of creative chaos to tackle complex questions in biology. From cancer research to dopamine pathways, my journey has been as dynamic as the proteins I model.
 
-## Who Am I? 
+I hold a Master’s degree in Bioinformatics from Freie Universität Berlin, with a strong focus on modeling, optimization, and systems biology. I enjoy turning ideas into clean Python scripts, elegant Julia code, and occasionally decoding complex Bash workflows. As a lifelong learner, I’m currently diving deeper into Julia and sparse matrix operations in Python, revisiting cell biology and immunology, and thinking through new project ideas to bridge computation and biology.
 
-- 🔬 **Bioinformatics Mastermind**: Freshly brewed from Freie Universität Berlin, with a knack for modeling, optimization, and systems biology.
-- 🧑‍💻 **Code Alchemist**: Turning ideas into elegant Python scripts, magical Julia code, and sometimes deciphering Bash spells.
-- 🌱 **Lifelong Learner**: Currently exploring Julia and sparse matrices in python, because science never sleeps. Reading up on Cell biology, and revisitng Immunology. Also, thinking of some new ideas to work on.
+### IDE 
 
-## Fun Facts About Me 
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white) 
 
-- 🎸 When I’m not cracking biological puzzles, you’ll find me cooking amazing food or debating philosophy or politics.  
-- 🌌 A proud believer that data is the closest thing we have to the Force in real life. May the p-value NEVER be ever in your favor!
-- 🧩 My favorite pastime? Making sense of messy datasets. It’s like solving a Rubik’s cube, but nerdier.
+### Dev  
 
-## Skills & Technologies
+![virtualenv](https://img.shields.io/badge/virtualenv-003B57?logo=python&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?logo=poetry&logoColor=white)
+![UV](https://img.shields.io/badge/UV-7E22CE?logo=python&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white) 
 
-- **Languages**: Julia, Python, R, Bash, Perl
-- **Specializations**: High-throughput data analysis, omics analysis, comparative genomics, machine learning, applied statistics, drug discovery, and data visualization.
+### Code
 
-## Get in Touch
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/bibymaths)  
-- [Email](mailto:mishraabhinav36@gmail.com)
 
-## Publications
+### Workflow
 
-- [Physiologically based pharmacokinetic (PBPK) model of tirzepatide](https://doi.org/10.5281/zenodo.14984688) 
-- [Gene expression studies in AR, MTOR, MAPK pathways and their role in prostate cancer](https://doi.org/10.1515/jib-2018-0080)
+![Nextflow](https://img.shields.io/badge/Nextflow-00BFB3?logo=nextflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Make](https://img.shields.io/badge/Makefile-000000?logo=gnu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+
+### Docs
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-3A7DAB?logo=quarto&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-494CE0?logo=mkdocs&logoColor=white)
+![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?logo=readthedocs&logoColor=white)
+
