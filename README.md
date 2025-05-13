@@ -4,6 +4,8 @@ I’m a bioinformatics enthusiast who loves to mix science, code, and a bit of c
 
 I hold a Master’s degree in Bioinformatics from Freie Universität Berlin, with a strong focus on modeling, optimization, and systems biology. I enjoy turning ideas into clean Python scripts, elegant Julia code, and occasionally decoding complex Bash workflows. As a lifelong learner, I’m currently diving deeper into Julia and sparse matrix operations in Python, revisiting cell biology and immunology, and thinking through new project ideas to bridge computation and biology.
 
+## My Toolbox 
+
 ### IDE 
 
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
