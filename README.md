@@ -1,5 +1,3 @@
----
-
 ✨ Welcome to my GitHub!
 
 I am a **computational biologist and open-science advocate**, motivated by mathematics and programming to transform
