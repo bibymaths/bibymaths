@@ -28,6 +28,7 @@ real-world clinical decisions.
 
 📄 For a detailed overview of my work, visit the [About](https://bibymaths.github.io/about/)
 and [Portfolio](https://bibymaths.github.io/portfolio/) sections of my website.
+
 📑 For my full CV, see the [CV](https://bibymaths.github.io/files/AbhinavMishra_CV.pdf).
 
 ---
