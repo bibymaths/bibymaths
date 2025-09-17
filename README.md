@@ -26,9 +26,14 @@ I’m always glad to connect with others in bioinformatics, computational biolog
 to expand my modeling and integration methods toward **precision medicine**, where predictive models can guide
 real-world clinical decisions.
 
-📄 For a detailed overview of my work, visit the [About](https://bibymaths.github.io/about/)
+For a detailed overview of my work, visit the [About](https://bibymaths.github.io/about/)
 and [Portfolio](https://bibymaths.github.io/portfolio/) sections of my website.
 
-📑 For my full CV, see the [CV](https://bibymaths.github.io/files/AbhinavMishra_CV.pdf).
+For my full CV, see the [CV](https://bibymaths.github.io/files/AbhinavMishra_CV.pdf).
+
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/bibymaths)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:mishraabhinav36@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://bibymaths.github.io)
 
 ---
