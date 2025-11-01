@@ -5,22 +5,20 @@ biological complexity into computationally tractable problems. I integrate multi
 models that link molecular networks to drug responses, and develop open-source pipelines using high-performance
 computing, containerization, and workflow systems.
 
-I hold an **MSc in Bioinformatics from Freie Universität Berlin (2025)** and a **BTech in Bioinformatics from Jaypee
+I hold an **M.Sc. in Bioinformatics from Freie Universität Berlin (2025)** and a **B.Tech. in Bioinformatics from Jaypee
 University of Information Technology, India (2017)**.
 
 Professionally, I have:
 
 * Built and validated an optimization framework to reconstruct phosphorylation networks in triple-negative breast cancer (TNBC) 
   using proteomics data 
-* Developed a physiologically-based pharmacokinetic (PBPK) model for drug distribution in the human body ([Preprint](https://doi.org/10.5281/zenodo.14976788))
+* Developed a physiologically-based pharmacokinetic (PBPK) model for drug distribution in the human body ([Model](https://doi.org/10.5281/zenodo.14976788))
 * Tested a pipeline for prostate cancer biomarker discovery using gene expression data and pathway analysis, 
   leading ([Publication](https://doi.org/10.1515/jib-2018-0080)).   
-* Designed a docking workflow to screen FDA-approved drugs against the dopamine D3 receptor for potential repurposing in Schizophrenia 
+* Designed a docking workflow to screen FDA-approved drugs against the dopamine D3 receptor for potential repurposing in Schizophrenia ([Poster](https://bibymaths.github.io/projects/other-projects/#2--nscsb-2016---docking-for-schizophrenia)) 
 
 You can find these and more on my [portfolio](https://bibymaths.github.io/portfolio/)
-and [projects](https://bibymaths.github.io/projects/) pages, where I also share open-source tools for phosphoproteomics
-analysis, viral genome reconstruction, genomic mapping, codon usage analysis, sequence alignment, and liver cancer
-prediction.
+and [projects](https://bibymaths.github.io/projects/) pages, where I build and share practical open-source tools for understanding cell signals, viruses, genes, and cancer.
 
 I’m always glad to connect with others in bioinformatics, computational biology, and open science. Looking ahead, I aim
 to expand my modeling and integration methods toward **precision medicine**, where predictive models can guide
@@ -36,4 +34,40 @@ For my full CV, see the [CV](https://bibymaths.github.io/files/AbhinavMishra_CV.
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:mishraabhinav36@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://bibymaths.github.io)
 
+---                                                        
+                                                                                                    
+                                       .''..,ool:ccclcc;c:.                                         
+                                       'Xolol:c:;;;,;:::coddoc.                                     
+                                     .lxk.         . .    ..',cxx,                                  
+                                   kkl'.                       ..:o:                                
+                                 cOc.                           ...:o.                              
+                               .ox.    .';:ccc::::::;;;;;;;''.. ... ;k:                             
+                              .Oo.   .:oddddoollllllllllolooolll;.  .,k.                            
+                              Od.   .:dxxxddooooooooooooolloodxOkd. ..;l                            
+                             '0.   .'lxxxxxddddoooooooooddododdxkx: ...l,                           
+                             ck.   .:dxxoc:;;;::::cllcllloddxxddxd:....c'                           
+                             ;k.  .:dxdlc:;,''''.',;,'......,:okkd,....l,                           
+                             ;0.  .dxllll:'.....:ccc:',....';:clxxc...,x'                           
+                              x; .ldolc:;,.....'ccddcl.  . .,,;codd. .0o                            
+                              ko..dxxddolc::::ccodxxdoc;'...,;:codo..lk                             
+                             ;k,c;xxxxddollllccldxddxdolcllllodxkkk,,Xc                             
+                             cko;lddxxdolc:;;,ll;,;,;;ll;:cloddxkOkc:d;                             
+                             .Ol'cdooool:;,,:c:,''''...;;',:coodxxxllk.                             
+                              Ooc;ollcc:;;;:cc;''......,c:;;:cllodd;dd                              
+                              Ooc'ollllcc:...,,,'.'.'',,..;;;:clodocOx                              
+                              .:d,:lllllc,  .,::;,,,,,'.. .':cllod:oOd                              
+                                cd.:clllc,.,:;,'.....',;,..;clllolcxo.                              
+                                 d'.';::;'',;:;'.. ...,;,..,::::;,o                                 
+                                 ,x' .........''....,,'.....''..'d.                                 
+                                  ,k,.                        .;c                                   
+                                   0c:,..                   .;lx'                                   
+                                  ;xc::;,'....          ..,;:cox'                                   
+                               ';coolc::;;,''..........',;;::coxxc.                                 
+                          .,col:lddllccc:;;;,''......',,;;::cloxo,:lc,                              
+                      ,c;l:;''.:doollccc::::;,,'...'',,;;;:ccloxOO;::,:lc:                          
+               ..:c:ol;,,','....;lollccc::::;;,,'''',,,;;;::cloxxo,'.';'',cll,'.                    
+          ':lollc:;,''.'.......   ':clcccc::;;;;,,,,,,,;;::cllc:......,',,'',,;clll:;.              
+      ::ldoc:;,''...............     .,:clcc::;;;;;;;;;:::;,..   ........''''',,',;:col:,,          
 ---
+Just messing around after stumbling across **LetterPress** by Gregor Niehl.  
+Credit/blame goes here: https://gitlab.gnome.org/gregorni
