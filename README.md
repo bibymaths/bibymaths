@@ -11,14 +11,11 @@ University of Information Technology, India (2017)**.
 Professionally, I have:
 
 * Built and validated an optimization framework to reconstruct phosphorylation networks in triple-negative breast cancer (TNBC) 
-  using proteomics data 
+  using proteomics data ([DOI](https://doi.org/10.5281/zenodo.17290716) & [Code](https://github.com/bibymaths/phoskintime))
 * Developed a physiologically-based pharmacokinetic (PBPK) model for drug distribution in the human body ([Model](https://doi.org/10.5281/zenodo.14976788))
 * Tested a pipeline for prostate cancer biomarker discovery using gene expression data and pathway analysis, 
   leading ([Publication](https://doi.org/10.1515/jib-2018-0080)).   
-* Designed a docking workflow to screen FDA-approved drugs against the dopamine D3 receptor for potential repurposing in Schizophrenia ([Poster](https://bibymaths.github.io/projects/other-projects/#2--nscsb-2016---docking-for-schizophrenia)) 
-
-You can find these and more on my [portfolio](https://bibymaths.github.io/portfolio/)
-and [projects](https://bibymaths.github.io/projects/) pages, where I build and share practical open-source tools for understanding cell signals, viruses, genes, and cancer.
+* Designed a docking workflow to screen FDA-approved drugs against the dopamine D3 receptor for potential repurposing in Schizophrenia ([Poster](https://bibymaths.github.io/posters/#1-poster-docking-for-schizophrenia)) 
 
 I’m always glad to connect with others in bioinformatics, computational biology, and open science. Looking ahead, I aim
 to expand my modeling and integration methods toward **precision medicine**, where predictive models can guide
