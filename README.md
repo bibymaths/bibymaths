@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibymaths)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mishraabhinav36@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-01696f?style=flat-square&logo=About.me&logoColor=white)](https://bibymaths.github.io)
-[![CV](https://img.shields.io/badge/CV-PDF-01696f?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://bibymaths.github.io/files/AbhinavMishra_CV.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-01696f?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://bibymaths.github.io/files/Abhinav_Mishra_CV_03_04_2026.pdf)
 
 </div>
 
