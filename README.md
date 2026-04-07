@@ -21,6 +21,10 @@
 
 *Transforming biological complexity into computationally tractable problems*
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bibymaths&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibymaths)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mishraabhinav36@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-01696f?style=flat-square&logo=About.me&logoColor=white)](https://bibymaths.github.io)
